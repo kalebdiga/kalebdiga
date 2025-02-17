@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **digakaleb@gmail.com**
 
-- ⚡ Fun fact **my favorite line of code is console.log("Hello World"). it is Gugu Gaga for my programming journey**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
