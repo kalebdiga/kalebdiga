@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [DiscoverEthiopia Travel website](https://discoveryethiopia.netlify.app/)
 
-- 🌱 I’m currently learning **system design, Designing Data-Intensive Applications Book by Martin Kleppmann is my favorite**
+- 🌱 I’m currently learning **UI/UX don norman's book the design of everyday things is my favorite**
 
 - 👨‍💻 All of my projects are available at [https://kalebdiga.netlify.app/](https://kalebdiga.netlify.app/)
 
